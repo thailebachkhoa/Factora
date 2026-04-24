@@ -1,0 +1,7 @@
+- Có thêm phân loại sự kiện ( ví dụ: nhóm sự kiện theo lĩnh vực: thể thao, chính trị, giải trí, v.v.)
+- Có thêm phần thống kê chi tiết về sự kiện (ví dụ: số lượng người chơi, tổng số tiền đã đặt, tỷ lệ thắng thua theo thời gian thực, v.v.)
+- Có thêm phần bình luận và thảo luận về sự kiện (ví dụ: người dùng có thể trao đổi ý kiến, dự đoán, v.v. trong một khung chat hoặc diễn đàn riêng cho từng sự kiện)
+- Có thêm phần hướng dẫn sử dụng chi tiết cho người dùng mới (ví dụ: video hướng dẫn, FAQ, v.v.)
+- Có thêm phần hỗ trợ khách hàng (ví dụ: chat trực tiếp, email hỗ trợ, v.v.)
+- Có thêm phần đánh giá và phản hồi từ người dùng (ví dụ: người dùng có thể đánh giá sự kiện, đưa ra phản hồi về trải nghiệm sử dụng, v.v.)
+- Có thêm hệ thống p2p: admin hoặc user có thể thao tác nhầm trên hành động nạp / rút
